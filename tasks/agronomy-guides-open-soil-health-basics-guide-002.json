@@ -1,0 +1,30 @@
+{
+  "id": "agronomy-guides-open-soil-health-basics-guide-002",
+  "title": "Soil health basics guide",
+  "project": "agronomy-guides-open",
+  "type": "writing",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "agriculture",
+    "education",
+    "food-security"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "Smallholder farmers and extension workers need plain-language, source-cited guidance on soil health basics.",
+  "objective": "Write a plain-language guide to soil health basics summarizing established practice: why it matters, the practice, common mistakes, and sources.",
+  "acceptanceCriteria": [
+    "Covers soil health basics as established general practice",
+    "General educational guidance only; no farm-specific prescriptions or pesticide dosing",
+    "Cites >=2 authoritative open sources with links",
+    "CC-BY-4.0 header + attributions"
+  ],
+  "output": "deliverables/agronomy-guides-open-soil-health-basics-guide-002.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "CC-BY-4.0"
+}

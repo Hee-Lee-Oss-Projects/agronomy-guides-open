@@ -1,0 +1,30 @@
+{
+  "id": "agronomy-guides-open-rice-good-practice-guide-011",
+  "title": "Rice good-practice guide",
+  "project": "agronomy-guides-open",
+  "type": "writing",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "agriculture",
+    "education",
+    "food-security"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "Smallholder farmers and extension workers need plain-language, source-cited guidance on rice good-practice.",
+  "objective": "Write a plain-language guide to rice good-practice summarizing established practice: why it matters, the practice, common mistakes, and sources.",
+  "acceptanceCriteria": [
+    "Covers rice good-practice as established general practice",
+    "General educational guidance only; no farm-specific prescriptions or pesticide dosing",
+    "Cites >=2 authoritative open sources with links",
+    "CC-BY-4.0 header + attributions"
+  ],
+  "output": "deliverables/agronomy-guides-open-rice-good-practice-guide-011.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "CC-BY-4.0"
+}
