@@ -1,0 +1,30 @@
+{
+  "id": "agronomy-guides-open-water-management-002",
+  "title": "Smallholder water management guide",
+  "project": "agronomy-guides-open",
+  "type": "writing",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "agriculture",
+    "education",
+    "food-security"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "Water use efficiency matters especially in dry regions.",
+  "objective": "Write a plain-language guide to established water-management practices for smallholders (timing, mulching, simple irrigation basics).",
+  "acceptanceCriteria": [
+    "Covers timing, mulching, and low-cost water-saving basics",
+    "Stays within established general practice",
+    "Cites >=2 authoritative open sources",
+    "CC-BY-4.0 header + attributions"
+  ],
+  "output": "deliverables/water-management-002.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "CC-BY-4.0"
+}

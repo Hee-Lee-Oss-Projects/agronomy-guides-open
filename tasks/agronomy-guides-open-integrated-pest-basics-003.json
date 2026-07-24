@@ -1,0 +1,30 @@
+{
+  "id": "agronomy-guides-open-integrated-pest-basics-003",
+  "title": "Integrated pest management basics guide",
+  "project": "agronomy-guides-open",
+  "type": "writing",
+  "lane": "donated",
+  "priority": "medium",
+  "domain": [
+    "agriculture",
+    "education",
+    "food-security"
+  ],
+  "riskTier": "medium",
+  "urgent": false,
+  "deliverable": "document",
+  "tokenEstimate": "medium",
+  "status": "open",
+  "context": "IPM reduces loss and chemical reliance; general guidance is safe and useful.",
+  "objective": "Write a plain-language guide to IPM basics (monitoring, prevention, non-chemical controls), explicitly avoiding pesticide dosing.",
+  "acceptanceCriteria": [
+    "Covers monitoring, prevention, and non-chemical controls",
+    "Explicitly avoids pesticide product/dosing recommendations",
+    "Cites >=2 authoritative open sources",
+    "CC-BY-4.0 header + attributions"
+  ],
+  "output": "deliverables/integrated-pest-basics-003.md",
+  "requestor": "TO BE SECURED",
+  "verifiedNeed": false,
+  "outputLicense": "CC-BY-4.0"
+}
